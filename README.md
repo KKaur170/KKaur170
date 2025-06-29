@@ -23,7 +23,7 @@ Environments:  Google Colab, VS Code, GitHub
 
 🔗 LinkedIn: https://www.linkedin.com/in/khushnoor-kaur-bb7684345
 
- ##📂 My Projects
+ ## 📂 My Projects
 
 ### 🎙️ Indic Emotion Assistant
 [🔗 View Project](https://github.com/KKaur170/indic-emotion-assistant)  
